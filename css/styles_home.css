@@ -1,3 +1,126 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:  content-box;
+}
+body {
+    background-color:white;
+}
+.lies{
+    color: black;
+}
+.blondye{
+    
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#caballo{
+    height: 30%;
+    width: 17%;
+    border: none;
+    margin-left: 40%;
+    margin-right: 0%;
+    margin-top: 5%;
+}
+
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bienvenida{
+    text-align: center;
+    padding: 2%;
+    font-size: 1.5em;
+}
+
+#boton_1{
+    margin-top: 5%;
+    margin-left: 23%;
+    margin-right: 100%;
+    margin-bottom: 20%;
+    padding-left: 25%;
+    padding-right: 22%;
+    background-color: #A9A9A9;
+    color: black;
+    position: absolute; 
+    margin-right: 25%;
+    border: none;
+    text-align: center;
+    
+}
+.nav-bar-toggler-icon{
+    border: none;
+}
+
+
+
+/* Media queries ipad pro*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:  content-box;
+}
+body {
+    background-color:white;
+}
+.lies{
+    color: black;
+}
+.blondye{
+    
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    margin-left: 10%;
+    margin-right: 30px;
+}
+#caballo{
+    height: 60%;
+    width: 60%;
+    border: none;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bienvenida{
+    text-align: center;
+    padding: 10%;
+}
+
+#boton_1{
+    margin-top: 10%;
+    margin-left: 18%;
+    margin-right: 50%;
+    padding-left: 25%;
+    padding-right: 22%;
+    background-color: #A9A9A9;
+    color: black;
+    position: absolute; 
+    margin-right: 25%;
+    border: none;
+    text-align: rigth;
+}
+.nav-bar-toggler-icon{
+    border: none;
+}
+}
+/* MEDIA QUERY IPHONE XS */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3){
+
 *{
     padding: 0;
     margin: 0;
@@ -50,3 +173,4 @@ hr {
 .nav-bar-toggler-icon{
     border: none;
 }
+    }

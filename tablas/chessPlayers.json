@@ -1,945 +1,937 @@
 [
-   
-   [
-      {
-         "Año":"1886",
-         "Sede":"Nueva York San Luis Nueva Orléans",
-         "Campeón": {
-            "nombre": "Wilhelm Steinitz",
-            "pais": "Imperio Austro-Húngaro",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
-         },
-         "G (+)":"10",
-         "P (-)":"5",
-         "Partidas empatadas":"5",
-         "Contrincante": {
-            "nombre": "Johannes Zukertort",
-            "pais": "Reino Unido Reino Unido",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zukertort.jpg"
-         },
-         "Formato":"Primero que alcance 10 victorias."
-      },
-      {
-         "Año":"1889",
-         "Sede":"La Habana",
-         "Campeón": {
-            "nombre":"Wilhelm Steinitz",
-            "pais": "Estados Unidos",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
-         },
-         "G (+)":"10",
-         "P (-)":"6",
-         "Partidas empatadas":"1",
-         "Contrincante":{
-            "nombre": "Mijail Chigorin",
-            "pais": "Imperio Ruso",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/1/19/Tschigorin.jpg"
-         },
-         "Formato":"Mejor de 20 partidas + tiebreak."
-      },
-      {
-         "Año":"1890/91",
-         "Sede":"Nueva York",
-         "Campeón": {
-            "nombre": "Wilhelm Steinitz",
-            "pais": "Estados Unidos",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"},
-         "G (+)":"6",
-         "P (-)":"4",
-         "Partidas empatadas":"9",
-         "Contrincante": {
-            "nombre": "Isidor Gunsberg" ,
-            "pais": "Imperio Austro-Húngaro",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Isidor_Arthur_Gunsberg.jpg"
-            },
-         "Formato":"Mejor de 20 partidas + tiebreak."
-      },
-      {
-         "Año":"1892",
-         "Sede":"La Habana",
-         "Campeón":{
-            "nombre": "Wilhelm Steinitz",
-            "pais": "Estados Unidos",
-            "img":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
-         },
-         "G (+)":"8+2",
-         "P (-)":"8",
-         "Partidas empatadas":"4+1",
-         "Contrincante": {
-            "nombre": "Mijail Chigorin",
-            "pais": "Imperio Ruso",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tschigorin.jpg"
-            },
-         "Formato":"Mejor de 20 partidas + tiebreak."
-      },
-      {
-         "Año":"1894",
-         "Sede":"Nueva York   Filadelfia   Montréal",
-         "Campeón":{
-            "nombre": "Emanuel Lasker",
-            "pais": "Imperio Alemán",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-            },
-         "G (+)":"10",
-         "P (-)":"5",
-         "Partidas empatadas":"4",
-         "Contrincante": {
-            "nombre": "Wilhelm Steinitz",
-            "pais": "Estados Unidos",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
-            },
-         "Formato":"Primero que alcance 10 victorias."
-      },
-      {
-         "Año":"1896/97",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre": "Emanuel Lasker",
-            "pais": "Imperio Alemán",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-            },
-         "G (+)":"10",
-         "P (-)":"2",
-         "Partidas empatadas":"5",
-         "Contrincante": {
-            "nombre": "Wilhelm Steinitz",
-             "pais": "Estados Unidos",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
-         },
-         "Formato":"Primero que alcance 10 victorias."
-      },
-      {
-         "Año":"1907",
-         "Sede":"Nueva York   Filadelfia   Washington, D.C. Baltimore Chicago Memphis",
-         "Campeón":{
-            "nombre": "Emanuel Lasker",
-             "pais": "Imperio Alemán",
-             "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-         },
-         "G (+)":"8",
-         "P (-)":"0",
-         "Partidas empatadas":"7",
-         "Contrincante": {
-            "nombre": "Frank Marshall", 
-            "pais": "Estados Unidos",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Frank_Marshall_%28chess_player%29.jpg"
-         },
-         "Formato":"Primero que alcance 8 victorias."
-      },
-      {
-         "Año":"1908",
-         "Sede":"Düsseldorf Múnich",
-         "Campeón": {
-            "nombre":"Emanuel Lasker",
-            "pais":"Imperio Alemán",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-         },
-         "G (+)":"8",
-         "P (-)":"3",
-         "Partidas empatadas":"5",
-         "Contrincante": {
-             "nombre": "Siegbert Tarrasch",
-             "pais": "Imperio Alemán",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/88/Tarrasch_72.jpg"
-         },
-         "Formato":"Primero que alcance 8 victorias."
-      },
-      {
-         "Año":"1910",
-         "Sede":"Viena Berlín",
-         "Campeón": {
-            "nombre": "Emanuel Lasker", 
-            "pais":"Imperio Alemán",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-
-         },
-         "G (+)":"1",
-         "P (-)":"1",
-         "Partidas empatadas":"8",
-         "Contrincante": {
-             "nombre": "Carl Schlechter",
-             "pais": "Imperio Austro-Húngaro",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/17/Carl_Schlechter_%28profile%29.png"
-         },
-         "Formato":"Mejor de 10 partidas.(El aspirante debe ganar por al menos dos puntos)"
-      },
-      {
-         "Año":"1910",
-         "Sede":"Berlín",
-         "Campeón": {
-            "nombre": "Emanuel Lasker",
-             "pais": "Imperio Alemán",
-             "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-         },
-         "G (+)":"8",
-         "P (-)":"0",
-         "Partidas empatadas":"3",
-         "Contrincante": {
-            "nombre": "Dawid Janowski",
-             "pais": "Francia",
-             "imagen":"https://upload.wikimedia.org/wikipedia/commons/7/77/DavidJanowski.jpg"
-         },
-         "Formato":"Primero que alcance 8 victorias."
-      },
-      {
-         "Año":"1921",
-         "Sede":"La Habana",
-         "Campeón": {
-            "nombre": "José Raúl Capablanca",
-            "pais": "Cuba",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chess_Fever_Kapablanka.jpg"
-         },
-         "G (+)":"4",
-         "P (-)":"0",
-         "Partidas empatadas":"10",
-         "Contrincante":{
-            "nombre": "Emanuel Lasker",
-            "pais": "República de Weimar",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
-         },
-         "Formato":"Mejor de 24 partidas.(Lasker abandonó)"
-      },
-      {
-         "Año":"1927",
-         "Sede":"Buenos Aires",
-         "Campeón": {
-            "nombre": "Alexander Alekhine",
-            "pais":"Francia",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
-         },
-         "G (+)":"6",
-         "P (-)":"3",
-         "Partidas empatadas":"25",
-         "Contrincante": {
-            "nombre":"José Raúl Capablanca", 
-            "pais":"Cuba, Cuba",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chess_Fever_Kapablanka.jpg"
-
-         },
-         "Formato":"Primero que alcance 6 victorias."
-      },
-      {
-         "Año":"1929",
-         "Sede":"Wiesbaden Heidelberg Berlín La Haya",
-         "Campeón":{
-            "nombre":"Alexander Alekhine", 
-            "pais": "Francia",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
-
-         },
-         "G (+)":"11",
-         "P (-)":"5",
-         "Partidas empatadas":"9",
-         "Contrincante":{
-         "nombre": "Efim Bogoljubov",
-          "pais":"República de Weimar",
-         "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/62/Efim_Bogoljubov.jpg"},
-         "Formato":"Primero que alcance 6 victorias y 15 puntos."
-      },
-      {
-         "Año":"1934",
-         "Sede":"Baden-Baden Villingen-Schwenningen Friburgo de Brisgovia Pforzheim Stuttgart Múnich Bayreuth Bad Kissingen Mannheim Berlín",
-         "Campeón": {
-            "nombre":"Alexander Alekhine", 
-            "pais":"Francia",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
-         },
-         "G (+)":"8",
-         "P (-)":"3",
-         "Partidas empatadas":"15",
-         "Contrincante":{
-            "nombre":"Efim Bogoljubov",
-             "pais":"Alemania",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/62/Efim_Bogoljubov.jpg"
-            },
-
-         "Formato":"Primero que alcance 6 victorias y 15 puntos."
-      },
-      {
-         "Año":"1935",
-         "Sede":"Ámsterdam Delft Rotterdam Utrecht Gouda La Haya Groninga Baarn 's-Hertogenbosch Eindhoven Zeist Ermelo Zandvoort",
-         "Campeón":{
-            "nombre":"Max Euwe",
-            "pais":"Países Bajos Países Bajos",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Max_Euwe_1973.jpg/622px-Max_Euwe_1973.jpg"},
-         "G (+)":"9",
-         "P (-)":"8",
-         "Partidas empatadas":"13",
-         "Contrincante":{
-            "nombre":"Alexander Alekhine", 
-            "pais":"Francia",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
-         },
-         "Formato":"Primero que alcance 6 victorias y 15 puntos."
-      },
-      {
-         "Año":"1937",
-         "Sede":"La Haya Rotterdam Ámsterdam Haarlem Leiden Groninga Delft",
-         "Campeón":{
-            "nombre":"Alexander Alekhine",
-             "pais":"Francia",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
-
-          },
-         "G (+)":"10",
-         "P (-)":"4",
-         "Partidas empatadas":"11",
-         "Contrincante":{
-            "nombre": "Max Euwe",
-            "pais": "Países Bajos Países Bajos",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Max_Euwe_1973.jpg/622px-Max_Euwe_1973.jpg"
-         },
-         
-         "Formato":"Primero que alcance 6 victorias y 15 puntos."
-      },
-      
-      {
-         "Año":"1948",
-         "Sede":"La Haya Moscú",
-         "Campeón": {
-            "nombre":"Mijaíl Botvínnik",
-             "pais":"Unión Soviética",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"},
-         "G (+)":"10",
-         "P (-)":"8",
-         "Partidas empatadas":"2",
-         "Contrincante":{
-            "nombre":"Alexander Alekhine, Paul Keres, Samuel Reshevsky, Max Euwe"},
-         "Formato":"Todos contra todos, 5 partidas contra cada rival."
-      },
-      {
-         "Año":"1951",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Mijaíl Botvínnik",
-            "pais":"Unión Soviética",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-         },
-         "G (+)":"5",
-         "P (-)":"5",
-         "Partidas empatadas":"14",
-         "Contrincante":{
-            "nombre":"David Bronstein", 
-            "pais":"Unión Soviética",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/0/00/David_Bronstein_1968b.jpg"
-         },
-         "Formato":"Mejor de 24 partidas.(En caso de empate, el campeón retiene el título)"
-      },
-      {
-         "Año":"1954",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Mijaíl Botvínnik",
-             "pais":"Unión Soviética",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-
-            },
-         "G (+)":"7",
-         "P (-)":"7",
-         "Partidas empatadas":"10",
-         "Contrincante":{
-            "nombre":"Vasili Smyslov", 
-            "pais":"Unión Soviética",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Smyslov2002.jpg/432px-Smyslov2002.jpg"
-         },
-         "Formato":"Mejor de 24 partidas.(En caso de empate, el campeón retiene el título)"
-      },
-      {
-         "Año":"1957",
-         "Sede":"Moscú",
-         "Campeón":{
-            "nombre":"Vasili Smyslov",
-             "pais":"Unión Soviética",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Smyslov2002.jpg/432px-Smyslov2002.jpg"
-            },
-         "G (+)":"6",
-         "P (-)":"3",
-         "Partidas empatadas":"13",
-         "Contrincante":{
-            "nombre":"Mijaíl Botvínnik",
-             "pais":"Unión Soviética",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1958",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Mijaíl Botvínnik",
-             "pais":"Unión Soviética",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-
-         },
-         "G (+)":"7",
-         "P (-)":"5",
-         "Partidas empatadas":"11",
-         "Contrincante":{
-            "nombre":"Vasili Smyslov",
-             "pais":"Unión Soviética",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Smyslov2002.jpg/432px-Smyslov2002.jpg"
-
-            },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1960",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Mijaíl Tal",
-            "pais":"Unión Soviética",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mikhail_Tal_1982.jpg/508px-Mikhail_Tal_1982.jpg"
-         },
-         "G (+)":"6",
-         "P (-)":"2",
-         "Partidas empatadas":"13",
-         "Contrincante":{
-            "nombre":"Mijaíl Botvínnik", 
-            "pais":"Unión Soviética",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1961",
-         "Sede":"Moscú",
-         "Campeón":{
-            "nombre":"Mijaíl Botvínnik",
-             "pais":"Unión Soviética",
-             "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-            },
-         "G (+)":"10",
-         "P (-)":"5",
-         "Partidas empatadas":"6",
-         "Contrincante":{
-            "nombre":"Mijaíl Tal", 
-            "pais":"Unión Soviética",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mikhail_Tal_1982.jpg/508px-Mikhail_Tal_1982.jpg"
-
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1963",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Tigran Petrosian",
-             "pais":"Unión Soviética",
-            "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tigran_Petrosian_World_Chess_Champion.jpg/640px-Tigran_Petrosian_World_Chess_Champion.jpg"
-            },
-         "G (+)":"5",
-         "P (-)":"2",
-         "Partidas empatadas":"15",
-         "Contrincante":{
-            "nombre":"Mijaíl Botvínnik", 
-            "pais": "Unión Soviética",
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
-
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1966",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Tigran Petrosian",
-             "pais":"Unión Soviética",
-             "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tigran_Petrosian_World_Chess_Champion.jpg/640px-Tigran_Petrosian_World_Chess_Champion.jpg"
-         },
-         "G (+)":"4",
-         "P (-)":"3",
-         "Partidas empatadas":"17",
-         "Contrincante": {
-            "nombre":"Boris Spassky", 
-            "pais":"Unión Soviética"
-            
-         },
-            "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1969",
-         "Sede":"Moscú",
-         "Campeón":{
-            "nombre": "Boris Spassky", 
-            "pais": "Unión Soviética"
-         },
-         "G (+)":"6",
-         "P (-)":"4",
-         "Partidas empatadas":"13",
-         "Contrincante":{
-            "nombre":"Tigran Petrosian", 
-            "pais":"Unión Soviética"
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1972",
-         "Sede":"Reikiavik",
-         "Campeón":{
-            "nombre":"Bobby Fischer",
-             "pais":"Estados Unidos"
-         },
-         "G (+)":"7",
-         "P (-)":"3",
-         "Partidas empatadas":"11",
-         "Contrincante":{
-            "nombre":"Boris Spassky",
-             "pais":"Unión Soviética"
-            },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1975",
-         "Sede":"Manila",
-         "Campeón":{
-            "nombre":"Anatoli Kárpov",
-            "pais":"Unión Soviética"
-         },
-         "G (+)":"Default",
-         "P (-)":"Default",
-         "contrincante": {
-              "nombre":"Bobby Fischer",
-                "pais":"Estados Unidos"
-               },
-         "Partidas empatadas":"Primero que alcance 10 victorias.(Fischer no se presentó)"
-      },
-      {
-         "Año":"1978",
-         "Sede":"Baguio",
-         "Campeón": {
-            "nombre":"Anatoli Kárpov",
-             "pais":"Unión Soviética"
-         },
-         "G (+)":"6",
-         "P (-)":"5",
-         "Partidas empatadas":"21",
-         "Contrincante":{
-            "nombre":"Víktor Korchnói",
-            "pais":"suiza"
-         },
-         "Formato":"Primero que alcance 6 victorias."
-      },
-      {
-         "Año":"1981",
-         "Sede":"Merano",
-         "Campeón":{
-            "nombre":"Anatoli Kárpov",
-            "pais":"Unión Soviética"},
-         "G (+)":"6",
-         "P (-)":"2",
-         "Partidas empatadas":"10",
-         "Contrincante": {
-            "Nombre": "Víktor Korchnói",
-            "pais": "Suiza, Suiza"
-         },
-         "Formato":"Primero que alcance 6 victorias."
-      },
-      {
-         "Año":"1984/85",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Anatoli Kárpov",
-             "pais":"Unión Soviética"
-         },
-         "G (+)":"5",
-         "P (-)":"3",
-         "Partidas empatadas":"40",
-         "Contrincante": {
-            "nombre": "Garri Kaspárov",
-            "pais":"Unión Soviética"
-         },
-         "Formato":"Primero que alcance 6 victorias.(Anulado tras 48 partidas)"
-      },
-      {
-         "Año":"1985",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Garri Kaspárov",
-             "pais":"Unión Soviética"
-         },
-         "G (+)":"5",
-         "P (-)":"3",
-         "Partidas empatadas":"16",
-         "Contrincante":{
-            "nombre":"Anatoli Kárpov",
-             "pais":"Unión Soviética"},
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1986",
-         "Sede":"Londres Leningrado",
-         "Campeón": {
-            "nombre":"Garri Kaspárov",
-             "pais":"Unión Soviética"
-         },
-         "G (+)":"5",
-         "P (-)":"4",
-         "Partidas empatadas":"15",
-         "Contrincante": {
-            "nombre":"Anatoli Kárpov", 
-            "pais":"Unión Soviética"
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1987",
-         "Sede":"Sevilla",
-         "Campeón":{
-            "nombre":"Garri Kaspárov",
-             "pais":"Unión Soviética"
-         },
-         "G (+)":"4",
-         "P (-)":"4",
-         "Partidas empatadas":"16",
-         "Contrincante":{
-            "nombre":"Anatoli Kárpov", 
-            "pais":"Unión Soviética"
-         },
-         "Formato":"Mejor de 24 partidas.(En caso de empate, el campeón retiene el título)"
-      },
-      {
-         "Año":"1990",
-         "Sede":"Nueva York Lyon",
-         "Campeón": {
-            "nombre":"Garri Kaspárov",
-             "pais":"Unión Soviética"
-         },
-         "G (+)":"4",
-         "P (-)":"3",
-         "Partidas empatadas":"17",
-         "Contrincante": {
-            "nombre":"Anatoli Kárpov",
-             "pais":"Unión Soviética"
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-
-      {
-         "Año":"1993",
-         "Sede":"Londres",
-         "Campeón":{
-            "nombre":"Garri Kaspárov",
-            "pais":"Rusia Rusia"
-         },
-         "G (+)":"6",
-         "P (-)":"1",
-         "E (=)":"13",
-         "Contrincante": {
-            "nombre":"Nigel Short",
-            "pais":"Inglaterra, UK"
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1995",
-         "Sede":"Nueva York",
-         "Campeón":{
-            "nombre":"Garri KaspárovRusia",
-             "pais":"Rusia"},
-         "G (+)":"4",
-         "P (-)":"1",
-         "E (=)":"13",
-         "Contrincante":{
-            "nombre":"Viswanathan Anand",
-            "pais": "India"
-         },
-         "Formato":"Mejor de 20 partidas."
-      },
-      {
-         "Año":"2000",
-         "Sede":"Londres",
-         "Campeón": {
-            "nombre":"Vladimir Kramnik",
-            "pais":"Rusia"
-         },
-         "G (+)":"2",
-         "P (-)":"0",
-         "E (=)":"13",
-         "Contrincante":{
-            "nombre":"Garri Kaspárov",
-            "pais":"Rusia"
-         },
-         "Formato":"Mejor de 16 partidas."
-      },
-      {
-         "Año":"2004",
-         "Sede":"Brissago",
-         "Campeón":{
-            "nombre":"Vladimir Kramnik",
-            "pais":"Rusia"
-         },
-         "G (+)":"2",
-         "P (-)":"2",
-         "E (=)":"10",
-         "Contrincante": {
-            "nombre":"Peter Leko",
-            "pais":"Hungría Hungría"
-         },
-         "Formato":"Mejor de 14 partidas.(En caso de empate, el campeón retiene el título)"
-      },
-      {
-         "Año":"1993",
-         "Sede":"Zwolle Arnhem Ámsterdam Yakarta",
-         "Campeón":{
-            "nombre":"Anatoli Kárpov", 
-            "pais":"Rusia"
-         },
-         "G (+)":"6",
-         "P (-)":"2",
-         "E (=)":"13",
-         "Contrincante":{
-            "nombre":"Jan Timman",
-            "pais":"Países Bajos"
-         },
-         "Formato":"Mejor de 24 partidas."
-      },
-      {
-         "Año":"1996",
-         "Sede":"Elistá",
-         "Campeón":{
-            "nombre":"Anatoli Kárpov",
-            "pais":"Rusia"
-         },
-         "G (+)":"6",
-         "P (-)":"3",
-         "E (=)":"9",
-         "Contrincante":{
-            "nombre":"Gata Kamsky",
-             "pais":"Estados Unidos"
-         },
-         "Formato":"Mejor de 20 partidas."
-      },
-      {
-         "Año":"1998",
-         "Sede":"Groninga Lausana",
-         "Campeón":{
-            "nombre":"Anatoli Kárpov",
-            "pais":"Rusia"
-         },
-         "G (+)":"2+2",
-         "P (-)":"2",
-         "E (=)":"2",
-         "Contrincante":{
-            "nombrew":"Viswanathan Anand",
-            "pais":"India"
-         },
-         "Formato":"Mejor de 6 partidas + tiebreaks"
-      },
-      {
-         "Año":"1999",
-         "Sede":"Las Vegas",
-         "Campeón":{
-            "nombre":"Aleksandr Jálifman",
-            "pais":"Rusia"
-         },
-         "G (+)":"2",
-         "P (-)":"1",
-         "E (=)":"3",
-         "Contrincante":{
-            "nombre":"Vladímir Akopián",
-             "pais":"Armenia"
-         },
-         "Formato":"Torneo de eliminación directa.Final al mejor de 6 partidas + tiebreaks(Karpov no se presentó)"
-      },
-      {
-         "Año":"2000",
-         "Sede":"Nueva Delhi Teherán",
-         "Campeón": {
-            "nombre":"Viswanathan Anand",
-            "pais":"India"
-         },
-         "G (+)":"3",
-         "P (-)":"0",
-         "E (=)":"1",
-         "Contrincante": {
-            "nombre":"Alexéi Shírov",
-            "pais":"Letonia"
-         },
-         "Formato":"Torneo de eliminación directa.Final al mejor de 6 partidas + tiebreaks"
-      },
-      {
-         "Año":"2001/02",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Ruslán Ponomariov",
-            "pais":"Ucrania"
-         },
-         "G (+)":"2",
-         "P (-)":"0",
-         "E (=)":"5",
-         "Contrincante": {
-            "nombre":"Vasili Ivanchuk",
-            "pais":"Ucrania"
-         },
-         "Formato":"Torneo de eliminación directa.Final al mejor de 8 partidas + tiebreaks"
-      },
-      {
-         "Año":"2004",
-         "Sede":"Trípoli",
-         "Campeón":{
-            "nombre":"Rustam Kasimdzhanov",
-            "pais":"Uzbekistán"
-         },
-         "G (+)":"2+1",
-         "P (-)":"2",
-         "E (=)":"2+1",
-         "Contrincante": {
-            "nombre":"Michael Adams",
-            "pais":"Inglaterra"
-         },
-         "Formato":"Torneo de eliminación directa.Final al mejor de 6 partidas + tiebreaks"
-      },
-      {
-         "Año":"2005",
-         "Sede":"Potrero de los Funes",
-         "Campeón":{
-            "nombre":"Veselin Topalov",
-            "pais":"Bulgaria"
-         },
-         "G (+)":"6",
-         "P (-)":"0",
-         "E (=)":"8",
-         "Contrincante": {
-            "nombre":"Viswanathan Anand Peter Svidler Aleksandr Morozévich Peter Leko Rustam Kasimdzhanov Michael Adams Judit Polgár"
-         },
-         "Formato":"Todos contra todos, 2 partidas contra cada rival."
-      },
-
-      {
-         "Año":"2006",
-         "Sede":"Elistá",
-         "Campeón": {
-            "nombre":"Vladimir Kramnik",
-            "pais":"Rusia"
-         },
-         "G (+)":"3+2",
-         "P (-)":"3+1",
-         "E (=)":"6+1",
-         "Contrincante":{
-            "nombre":"Veselin Topalov",
-            "pais":"Bulgaria"
-         },
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2007",
-         "Sede":"Ciudad de México",
-         "Campeón": {
-            "nombre":"Viswanathan Anand",
-            "pais": "India"
-         },
-         "G (+)":"4",
-         "P (-)":"0",
-         "E (=)":"10",
-         "Contrincante":"Vladimir Kramnik Borís Gélfand Peter Leko Peter Svidler Aleksandr Morozévich Levon Aronian Aleksandr Grischuk",
-         "Formato":"Todos contra todos, 2 partidas contra cada rival."
-      },
-      {
-         "Año":"2008",
-         "Sede":"Bonn",
-         "Campeón":"Viswanathan AnandIndia India",
-         "G (+)":"3",
-         "P (-)":"1",
-         "E (=)":"7",
-         "Contrincante":{
-            "nombre":"Vladimir Kramnik",
-            "pais":"Rusia"},
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2010",
-         "Sede":"Sofía",
-         "Campeón":{
-            "nombre":"Viswanathan Anand",
-            "pais":"India"
-         },
-         "G (+)":"3",
-         "P (-)":"2",
-         "E (=)":"7",
-         "Contrincante": {
-            "nombre":"Veselin Topalov",
-            "pais":"Bulgaria"},
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2012  ",
-         "Sede":"Moscú",
-         "Campeón": {
-            "nombre":"Viswanathan Anand",
-            "pais":"India"
-         },
-         "G (+)":"1+1",
-         "P (-)":"1",
-         "E (=)":"10+3",
-         "Contrincante":{
-            "nombre":"Borís Gélfand",
-            "pais":"Israel"},
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2013",
-         "Sede":"Madrás",
-         "Campeón":{
-            "nombre":"Magnus Carlsen",
-            "pais":"Noruega"},
-         "G (+)":"3",
-         "P (-)":"0",
-         "E (=)":"7",
-         "Contrincante": {
-            "nombrew":"Viswanathan Anand",
-            "pais":"India"
-         },
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2014",
-         "Sede":"Sochi",
-         "Campeón": {
-            "nombre":"Magnus Carlsen",
-            "pais":"Noruega"
-         },
-         "G (+)":"3",
-         "P (-)":"1",
-         "E (=)":"7",
-         "Contrincante":{
-            "nombre":"Viswanathan Anand",
-            "pais":"India"
-         },
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2016",
-         "Sede":"Nueva York",
-         "Campeón": {
-            "nombre":"Magnus Carlsen",
-            "pais":"Noruega"
-         },
-         "G (+)":"1+2",
-         "P (-)":"1",
-         "E (=)":"10+2",
-         "Contrincante":{
-            "nombre":"Serguéi Kariakin",
-            "pais":"Rusia"
-         },
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      },
-      {
-         "Año":"2018",
-         "Sede":"Londres",
-         "Campeón": {
-            "nombre":"Magnus Carlsen",
-            "pais":"Noruega"},
-         "G (+)":"0+3",
-         "P (-)":"0",
-         "E (=)":"12",
-         "Contrincante":{
-            "nombre":"Fabiano Caruana",
-            "pais":"Estados Unidos"
-         },
-         "Formato":"Mejor de 12 partidas + tiebreaks"
-      }
-   ]
-
+  {
+    "Año": "1886",
+    "Sede": "Nueva York San Luis Nueva Orléans",
+    "Campeón": {
+      "nombre": "Wilhelm Steinitz",
+      "pais": "Imperio Austro-Húngaro",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "5",
+    "Partidas empatadas": "5",
+    "Contrincante": {
+      "nombre": "Johannes Zukertort",
+      "pais": "Reino Unido Reino Unido",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Zukertort.jpg"
+    },
+    "Formato": "Primero que alcance 10 victorias."
+  },
+  {
+    "Año": "1889",
+    "Sede": "La Habana",
+    "Campeón": {
+      "nombre": "Wilhelm Steinitz",
+      "pais": "Estados Unidos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "6",
+    "Partidas empatadas": "1",
+    "Contrincante": {
+      "nombre": "Mijail Chigorin",
+      "pais": "Imperio Ruso",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tschigorin.jpg"
+    },
+    "Formato": "Mejor de 20 partidas + tiebreak."
+  },
+  {
+    "Año": "1890/91",
+    "Sede": "Nueva York",
+    "Campeón": {
+      "nombre": "Wilhelm Steinitz",
+      "pais": "Estados Unidos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
+    },
+    "G (+)": "6",
+    "P (-)": "4",
+    "Partidas empatadas": "9",
+    "Contrincante": {
+      "nombre": "Isidor Gunsberg",
+      "pais": "Imperio Austro-Húngaro",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Isidor_Arthur_Gunsberg.jpg"
+    },
+    "Formato": "Mejor de 20 partidas + tiebreak."
+  },
+  {
+    "Año": "1892",
+    "Sede": "La Habana",
+    "Campeón": {
+      "nombre": "Wilhelm Steinitz",
+      "pais": "Estados Unidos",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
+    },
+    "G (+)": "8+2",
+    "P (-)": "8",
+    "Partidas empatadas": "4+1",
+    "Contrincante": {
+      "nombre": "Mijail Chigorin",
+      "pais": "Imperio Ruso",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tschigorin.jpg"
+    },
+    "Formato": "Mejor de 20 partidas + tiebreak."
+  },
+  {
+    "Año": "1894",
+    "Sede": "Nueva York   Filadelfia   Montréal",
+    "Campeón": {
+      "nombre": "Emanuel Lasker",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "5",
+    "Partidas empatadas": "4",
+    "Contrincante": {
+      "nombre": "Wilhelm Steinitz",
+      "pais": "Estados Unidos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
+    },
+    "Formato": "Primero que alcance 10 victorias."
+  },
+  {
+    "Año": "1896/97",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Emanuel Lasker",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "2",
+    "Partidas empatadas": "5",
+    "Contrincante": {
+      "nombre": "Wilhelm Steinitz",
+      "pais": "Estados Unidos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wilhelm_Steinitz2.jpg"
+    },
+    "Formato": "Primero que alcance 10 victorias."
+  },
+  {
+    "Año": "1907",
+    "Sede": "Nueva York   Filadelfia   Washington, D.C. Baltimore Chicago Memphis",
+    "Campeón": {
+      "nombre": "Emanuel Lasker",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "G (+)": "8",
+    "P (-)": "0",
+    "Partidas empatadas": "7",
+    "Contrincante": {
+      "nombre": "Frank Marshall",
+      "pais": "Estados Unidos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Frank_Marshall_%28chess_player%29.jpg"
+    },
+    "Formato": "Primero que alcance 8 victorias."
+  },
+  {
+    "Año": "1908",
+    "Sede": "Düsseldorf Múnich",
+    "Campeón": {
+      "nombre": "Emanuel Lasker",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "G (+)": "8",
+    "P (-)": "3",
+    "Partidas empatadas": "5",
+    "Contrincante": {
+      "nombre": "Siegbert Tarrasch",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/88/Tarrasch_72.jpg"
+    },
+    "Formato": "Primero que alcance 8 victorias."
+  },
+  {
+    "Año": "1910",
+    "Sede": "Viena Berlín",
+    "Campeón": {
+      "nombre": "Emanuel Lasker",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "G (+)": "1",
+    "P (-)": "1",
+    "Partidas empatadas": "8",
+    "Contrincante": {
+      "nombre": "Carl Schlechter",
+      "pais": "Imperio Austro-Húngaro",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/17/Carl_Schlechter_%28profile%29.png"
+    },
+    "Formato": "Mejor de 10 partidas.(El aspirante debe ganar por al menos dos puntos)"
+  },
+  {
+    "Año": "1910",
+    "Sede": "Berlín",
+    "Campeón": {
+      "nombre": "Emanuel Lasker",
+      "pais": "Imperio Alemán",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "G (+)": "8",
+    "P (-)": "0",
+    "Partidas empatadas": "3",
+    "Contrincante": {
+      "nombre": "Dawid Janowski",
+      "pais": "Francia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/77/DavidJanowski.jpg"
+    },
+    "Formato": "Primero que alcance 8 victorias."
+  },
+  {
+    "Año": "1921",
+    "Sede": "La Habana",
+    "Campeón": {
+      "nombre": "José Raúl Capablanca",
+      "pais": "Cuba",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chess_Fever_Kapablanka.jpg"
+    },
+    "G (+)": "4",
+    "P (-)": "0",
+    "Partidas empatadas": "10",
+    "Contrincante": {
+      "nombre": "Emanuel Lasker",
+      "pais": "República de Weimar",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg"
+    },
+    "Formato": "Mejor de 24 partidas.(Lasker abandonó)"
+  },
+  {
+    "Año": "1927",
+    "Sede": "Buenos Aires",
+    "Campeón": {
+      "nombre": "Alexander Alekhine",
+      "pais": "Francia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
+    },
+    "G (+)": "6",
+    "P (-)": "3",
+    "Partidas empatadas": "25",
+    "Contrincante": {
+      "nombre": "José Raúl Capablanca",
+      "pais": "Cuba, Cuba",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chess_Fever_Kapablanka.jpg"
+    },
+    "Formato": "Primero que alcance 6 victorias."
+  },
+  {
+    "Año": "1929",
+    "Sede": "Wiesbaden Heidelberg Berlín La Haya",
+    "Campeón": {
+      "nombre": "Alexander Alekhine",
+      "pais": "Francia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
+    },
+    "G (+)": "11",
+    "P (-)": "5",
+    "Partidas empatadas": "9",
+    "Contrincante": {
+      "nombre": "Efim Bogoljubov",
+      "pais": "República de Weimar",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/62/Efim_Bogoljubov.jpg"
+    },
+    "Formato": "Primero que alcance 6 victorias y 15 puntos."
+  },
+  {
+    "Año": "1934",
+    "Sede": "Baden-Baden Villingen-Schwenningen Friburgo de Brisgovia Pforzheim Stuttgart Múnich Bayreuth Bad Kissingen Mannheim Berlín",
+    "Campeón": {
+      "nombre": "Alexander Alekhine",
+      "pais": "Francia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
+    },
+    "G (+)": "8",
+    "P (-)": "3",
+    "Partidas empatadas": "15",
+    "Contrincante": {
+      "nombre": "Efim Bogoljubov",
+      "pais": "Alemania",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/62/Efim_Bogoljubov.jpg"
+    },
+    "Formato": "Primero que alcance 6 victorias y 15 puntos."
+  },
+  {
+    "Año": "1935",
+    "Sede": "Ámsterdam Delft Rotterdam Utrecht Gouda La Haya Groninga Baarn 's-Hertogenbosch Eindhoven Zeist Ermelo Zandvoort",
+    "Campeón": {
+      "nombre": "Max Euwe",
+      "pais": "Países Bajos Países Bajos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Max_Euwe_1973.jpg/622px-Max_Euwe_1973.jpg"
+    },
+    "G (+)": "9",
+    "P (-)": "8",
+    "Partidas empatadas": "13",
+    "Contrincante": {
+      "nombre": "Alexander Alekhine",
+      "pais": "Francia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
+    },
+    "Formato": "Primero que alcance 6 victorias y 15 puntos."
+  },
+  {
+    "Año": "1937",
+    "Sede": "La Haya Rotterdam Ámsterdam Haarlem Leiden Groninga Delft",
+    "Campeón": {
+      "nombre": "Alexander Alekhine",
+      "pais": "Francia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Alexandre_Alekhine_Color.jpg/500px-Alexandre_Alekhine_Color.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "4",
+    "Partidas empatadas": "11",
+    "Contrincante": {
+      "nombre": "Max Euwe",
+      "pais": "Países Bajos Países Bajos",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Max_Euwe_1973.jpg/622px-Max_Euwe_1973.jpg"
+    },
+    "Formato": "Primero que alcance 6 victorias y 15 puntos."
+  },
+  {
+    "Año": "1948",
+    "Sede": "La Haya Moscú",
+    "Campeón": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "8",
+    "Partidas empatadas": "2",
+    "Contrincante": {
+      "nombre": "Alexander Alekhine, Paul Keres, Samuel Reshevsky, Max Euwe"
+    },
+    "Formato": "Todos contra todos, 5 partidas contra cada rival."
+  },
+  {
+    "Año": "1951",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "G (+)": "5",
+    "P (-)": "5",
+    "Partidas empatadas": "14",
+    "Contrincante": {
+      "nombre": "David Bronstein",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/00/David_Bronstein_1968b.jpg"
+    },
+    "Formato": "Mejor de 24 partidas.(En caso de empate, el campeón retiene el título)"
+  },
+  {
+    "Año": "1954",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "G (+)": "7",
+    "P (-)": "7",
+    "Partidas empatadas": "10",
+    "Contrincante": {
+      "nombre": "Vasili Smyslov",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Smyslov2002.jpg/432px-Smyslov2002.jpg"
+    },
+    "Formato": "Mejor de 24 partidas.(En caso de empate, el campeón retiene el título)"
+  },
+  {
+    "Año": "1957",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Vasili Smyslov",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Smyslov2002.jpg/432px-Smyslov2002.jpg"
+    },
+    "G (+)": "6",
+    "P (-)": "3",
+    "Partidas empatadas": "13",
+    "Contrincante": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1958",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "G (+)": "7",
+    "P (-)": "5",
+    "Partidas empatadas": "11",
+    "Contrincante": {
+      "nombre": "Vasili Smyslov",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Smyslov2002.jpg/432px-Smyslov2002.jpg"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1960",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Mijaíl Tal",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mikhail_Tal_1982.jpg/508px-Mikhail_Tal_1982.jpg"
+    },
+    "G (+)": "6",
+    "P (-)": "2",
+    "Partidas empatadas": "13",
+    "Contrincante": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1961",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "G (+)": "10",
+    "P (-)": "5",
+    "Partidas empatadas": "6",
+    "Contrincante": {
+      "nombre": "Mijaíl Tal",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mikhail_Tal_1982.jpg/508px-Mikhail_Tal_1982.jpg"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1963",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Tigran Petrosian",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tigran_Petrosian_World_Chess_Champion.jpg/640px-Tigran_Petrosian_World_Chess_Champion.jpg"
+    },
+    "G (+)": "5",
+    "P (-)": "2",
+    "Partidas empatadas": "15",
+    "Contrincante": {
+      "nombre": "Mijaíl Botvínnik",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mikhail_Botvinnik_1962.jpg/516px-Mikhail_Botvinnik_1962.jpg"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1966",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Tigran Petrosian",
+      "pais": "Unión Soviética",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tigran_Petrosian_World_Chess_Champion.jpg/640px-Tigran_Petrosian_World_Chess_Champion.jpg"
+    },
+    "G (+)": "4",
+    "P (-)": "3",
+    "Partidas empatadas": "17",
+    "Contrincante": {
+      "nombre": "Boris Spassky",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1969",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Boris Spassky",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "6",
+    "P (-)": "4",
+    "Partidas empatadas": "13",
+    "Contrincante": {
+      "nombre": "Tigran Petrosian",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1972",
+    "Sede": "Reikiavik",
+    "Campeón": {
+      "nombre": "Bobby Fischer",
+      "pais": "Estados Unidos"
+    },
+    "G (+)": "7",
+    "P (-)": "3",
+    "Partidas empatadas": "11",
+    "Contrincante": {
+      "nombre": "Boris Spassky",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1975",
+    "Sede": "Manila",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "Default",
+    "P (-)": "Default",
+    "contrincante": {
+      "nombre": "Bobby Fischer",
+      "pais": "Estados Unidos"
+    },
+    "Partidas empatadas": "Primero que alcance 10 victorias.(Fischer no se presentó)"
+  },
+  {
+    "Año": "1978",
+    "Sede": "Baguio",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "6",
+    "P (-)": "5",
+    "Partidas empatadas": "21",
+    "Contrincante": {
+      "nombre": "Víktor Korchnói",
+      "pais": "suiza"
+    },
+    "Formato": "Primero que alcance 6 victorias."
+  },
+  {
+    "Año": "1981",
+    "Sede": "Merano",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "6",
+    "P (-)": "2",
+    "Partidas empatadas": "10",
+    "Contrincante": {
+      "Nombre": "Víktor Korchnói",
+      "pais": "Suiza, Suiza"
+    },
+    "Formato": "Primero que alcance 6 victorias."
+  },
+  {
+    "Año": "1984/85",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "5",
+    "P (-)": "3",
+    "Partidas empatadas": "40",
+    "Contrincante": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Primero que alcance 6 victorias.(Anulado tras 48 partidas)"
+  },
+  {
+    "Año": "1985",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "5",
+    "P (-)": "3",
+    "Partidas empatadas": "16",
+    "Contrincante": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1986",
+    "Sede": "Londres Leningrado",
+    "Campeón": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "5",
+    "P (-)": "4",
+    "Partidas empatadas": "15",
+    "Contrincante": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1987",
+    "Sede": "Sevilla",
+    "Campeón": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "4",
+    "P (-)": "4",
+    "Partidas empatadas": "16",
+    "Contrincante": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas.(En caso de empate, el campeón retiene el título)"
+  },
+  {
+    "Año": "1990",
+    "Sede": "Nueva York Lyon",
+    "Campeón": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Unión Soviética"
+    },
+    "G (+)": "4",
+    "P (-)": "3",
+    "Partidas empatadas": "17",
+    "Contrincante": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Unión Soviética"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1993",
+    "Sede": "Londres",
+    "Campeón": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Rusia Rusia"
+    },
+    "G (+)": "6",
+    "P (-)": "1",
+    "E (=)": "13",
+    "Contrincante": {
+      "nombre": "Nigel Short",
+      "pais": "Inglaterra, UK"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1995",
+    "Sede": "Nueva York",
+    "Campeón": {
+      "nombre": "Garri KaspárovRusia",
+      "pais": "Rusia"
+    },
+    "G (+)": "4",
+    "P (-)": "1",
+    "E (=)": "13",
+    "Contrincante": {
+      "nombre": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "Formato": "Mejor de 20 partidas."
+  },
+  {
+    "Año": "2000",
+    "Sede": "Londres",
+    "Campeón": {
+      "nombre": "Vladimir Kramnik",
+      "pais": "Rusia"
+    },
+    "G (+)": "2",
+    "P (-)": "0",
+    "E (=)": "13",
+    "Contrincante": {
+      "nombre": "Garri Kaspárov",
+      "pais": "Rusia"
+    },
+    "Formato": "Mejor de 16 partidas."
+  },
+  {
+    "Año": "2004",
+    "Sede": "Brissago",
+    "Campeón": {
+      "nombre": "Vladimir Kramnik",
+      "pais": "Rusia"
+    },
+    "G (+)": "2",
+    "P (-)": "2",
+    "E (=)": "10",
+    "Contrincante": {
+      "nombre": "Peter Leko",
+      "pais": "Hungría Hungría"
+    },
+    "Formato": "Mejor de 14 partidas.(En caso de empate, el campeón retiene el título)"
+  },
+  {
+    "Año": "1993",
+    "Sede": "Zwolle Arnhem Ámsterdam Yakarta",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Rusia"
+    },
+    "G (+)": "6",
+    "P (-)": "2",
+    "E (=)": "13",
+    "Contrincante": {
+      "nombre": "Jan Timman",
+      "pais": "Países Bajos"
+    },
+    "Formato": "Mejor de 24 partidas."
+  },
+  {
+    "Año": "1996",
+    "Sede": "Elistá",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Rusia"
+    },
+    "G (+)": "6",
+    "P (-)": "3",
+    "E (=)": "9",
+    "Contrincante": {
+      "nombre": "Gata Kamsky",
+      "pais": "Estados Unidos"
+    },
+    "Formato": "Mejor de 20 partidas."
+  },
+  {
+    "Año": "1998",
+    "Sede": "Groninga Lausana",
+    "Campeón": {
+      "nombre": "Anatoli Kárpov",
+      "pais": "Rusia"
+    },
+    "G (+)": "2+2",
+    "P (-)": "2",
+    "E (=)": "2",
+    "Contrincante": {
+      "nombrew": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "Formato": "Mejor de 6 partidas + tiebreaks"
+  },
+  {
+    "Año": "1999",
+    "Sede": "Las Vegas",
+    "Campeón": {
+      "nombre": "Aleksandr Jálifman",
+      "pais": "Rusia"
+    },
+    "G (+)": "2",
+    "P (-)": "1",
+    "E (=)": "3",
+    "Contrincante": {
+      "nombre": "Vladímir Akopián",
+      "pais": "Armenia"
+    },
+    "Formato": "Torneo de eliminación directa.Final al mejor de 6 partidas + tiebreaks(Karpov no se presentó)"
+  },
+  {
+    "Año": "2000",
+    "Sede": "Nueva Delhi Teherán",
+    "Campeón": {
+      "nombre": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "G (+)": "3",
+    "P (-)": "0",
+    "E (=)": "1",
+    "Contrincante": {
+      "nombre": "Alexéi Shírov",
+      "pais": "Letonia"
+    },
+    "Formato": "Torneo de eliminación directa.Final al mejor de 6 partidas + tiebreaks"
+  },
+  {
+    "Año": "2001/02",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Ruslán Ponomariov",
+      "pais": "Ucrania"
+    },
+    "G (+)": "2",
+    "P (-)": "0",
+    "E (=)": "5",
+    "Contrincante": {
+      "nombre": "Vasili Ivanchuk",
+      "pais": "Ucrania"
+    },
+    "Formato": "Torneo de eliminación directa.Final al mejor de 8 partidas + tiebreaks"
+  },
+  {
+    "Año": "2004",
+    "Sede": "Trípoli",
+    "Campeón": {
+      "nombre": "Rustam Kasimdzhanov",
+      "pais": "Uzbekistán"
+    },
+    "G (+)": "2+1",
+    "P (-)": "2",
+    "E (=)": "2+1",
+    "Contrincante": {
+      "nombre": "Michael Adams",
+      "pais": "Inglaterra"
+    },
+    "Formato": "Torneo de eliminación directa.Final al mejor de 6 partidas + tiebreaks"
+  },
+  {
+    "Año": "2005",
+    "Sede": "Potrero de los Funes",
+    "Campeón": {
+      "nombre": "Veselin Topalov",
+      "pais": "Bulgaria"
+    },
+    "G (+)": "6",
+    "P (-)": "0",
+    "E (=)": "8",
+    "Contrincante": {
+      "nombre": "Viswanathan Anand Peter Svidler Aleksandr Morozévich Peter Leko Rustam Kasimdzhanov Michael Adams Judit Polgár"
+    },
+    "Formato": "Todos contra todos, 2 partidas contra cada rival."
+  },
+  {
+    "Año": "2006",
+    "Sede": "Elistá",
+    "Campeón": {
+      "nombre": "Vladimir Kramnik",
+      "pais": "Rusia"
+    },
+    "G (+)": "3+2",
+    "P (-)": "3+1",
+    "E (=)": "6+1",
+    "Contrincante": {
+      "nombre": "Veselin Topalov",
+      "pais": "Bulgaria"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2007",
+    "Sede": "Ciudad de México",
+    "Campeón": {
+      "nombre": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "G (+)": "4",
+    "P (-)": "0",
+    "E (=)": "10",
+    "Contrincante": "Vladimir Kramnik Borís Gélfand Peter Leko Peter Svidler Aleksandr Morozévich Levon Aronian Aleksandr Grischuk",
+    "Formato": "Todos contra todos, 2 partidas contra cada rival."
+  },
+  {
+    "Año": "2008",
+    "Sede": "Bonn",
+    "Campeón": "Viswanathan AnandIndia India",
+    "G (+)": "3",
+    "P (-)": "1",
+    "E (=)": "7",
+    "Contrincante": {
+      "nombre": "Vladimir Kramnik",
+      "pais": "Rusia"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2010",
+    "Sede": "Sofía",
+    "Campeón": {
+      "nombre": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "G (+)": "3",
+    "P (-)": "2",
+    "E (=)": "7",
+    "Contrincante": {
+      "nombre": "Veselin Topalov",
+      "pais": "Bulgaria"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2012  ",
+    "Sede": "Moscú",
+    "Campeón": {
+      "nombre": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "G (+)": "1+1",
+    "P (-)": "1",
+    "E (=)": "10+3",
+    "Contrincante": {
+      "nombre": "Borís Gélfand",
+      "pais": "Israel"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2013",
+    "Sede": "Madrás",
+    "Campeón": {
+      "nombre": "Magnus Carlsen",
+      "pais": "Noruega"
+    },
+    "G (+)": "3",
+    "P (-)": "0",
+    "E (=)": "7",
+    "Contrincante": {
+      "nombrew": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2014",
+    "Sede": "Sochi",
+    "Campeón": {
+      "nombre": "Magnus Carlsen",
+      "pais": "Noruega"
+    },
+    "G (+)": "3",
+    "P (-)": "1",
+    "E (=)": "7",
+    "Contrincante": {
+      "nombre": "Viswanathan Anand",
+      "pais": "India"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2016",
+    "Sede": "Nueva York",
+    "Campeón": {
+      "nombre": "Magnus Carlsen",
+      "pais": "Noruega"
+    },
+    "G (+)": "1+2",
+    "P (-)": "1",
+    "E (=)": "10+2",
+    "Contrincante": {
+      "nombre": "Serguéi Kariakin",
+      "pais": "Rusia"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  },
+  {
+    "Año": "2018",
+    "Sede": "Londres",
+    "Campeón": {
+      "nombre": "Magnus Carlsen",
+      "pais": "Noruega"
+    },
+    "G (+)": "0+3",
+    "P (-)": "0",
+    "E (=)": "12",
+    "Contrincante": {
+      "nombre": "Fabiano Caruana",
+      "pais": "Estados Unidos"
+    },
+    "Formato": "Mejor de 12 partidas + tiebreaks"
+  }
 ]

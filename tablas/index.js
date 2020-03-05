@@ -1,4 +1,4 @@
-var scraper = require('table-scraper');
+/* var scraper = require('table-scraper');
 var fs = require('fs');
 
 scraper
@@ -9,4 +9,9 @@ scraper
             console.log(err);
         }
     });
-  });
+  }); */
+
+  fetch('api.js')
+  .then(response => response.json())
+  .then(data=> console.log(data))
+  .catch(error => console.error(error));
