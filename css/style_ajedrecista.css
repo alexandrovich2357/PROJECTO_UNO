@@ -7,17 +7,50 @@
 #selector{
 width: 50%;
 margin-left: 25%;
+}
+
+
+h3{
+    margin-top: 7%;
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+
+.card-group{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 2%;
+    margin-bottom: 10%;
+}
+.altura{
+    height: 30%;
+}
+/* imagen campeon */
+.campeon{
+    height: 60%;
+}
+/* imagen contrincante */
+.contrincante{
+    height: 60%;
+}
+.dos{
 
 }
-h3{
-    margin-top: 10%;
-    text-align: center;
+.card-body{
+    flex: auto;
+}
+.texto_bajo{
+    font-size: 1em;
 }
 
 .dentro_selector {
-
-    margin-top: 5%;
+    margin-top: 1%;
     text-align: center;
+}
+.border_left{
+    margin: 30%;
 }
 
 /* mediaquery para iphone xs */
@@ -36,6 +69,9 @@ margin-left: 20%;
 h3{
     margin-top: 20%;
     text-align: center;
+}
+h6{
+    margin-top: 30%;
 }
 .dentro_selector {
     margin-top: 10%;

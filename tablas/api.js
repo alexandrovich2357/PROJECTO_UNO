@@ -13,7 +13,7 @@ var api = [
     'Partidas empatadas': '5',
     Contrincante: {
       nombre: 'Johannes Zukertort',
-      pais: 'Reino Unido Reino Unido',
+      pais: 'Reino Unido, Reino Unido',
       imagen:
         'https://upload.wikimedia.org/wikipedia/commons/a/a4/Zukertort.jpg'
     },
@@ -85,9 +85,7 @@ var api = [
     Campeón: {
       nombre: 'Emanuel Lasker',
       pais: 'Imperio Alemán',
-      imagen:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/440px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg'
-    },
+      imagen: '//4.bp.blogspot.com/-L_zXozv_6Yo/VyUGvEFWc_I/AAAAAAAAVKU/9rOEPtfCRLkQD-vnkoTqNk0gCm_ZAWaTQCLcB/s1600/laskereee.jpg'},
     'G (+)': '10',
     'P (-)': '5',
     'Partidas empatadas': '4',
